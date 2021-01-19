@@ -127,6 +127,8 @@ h1 a {
   background: -moz-linear-gradient(#e5f2bb, #b7e952);
   padding: 30px;
   margin: 16px 0;
+    display: flex;
+  flex-wrap: wrap;
 }
 #introduction h3 {
   font-size: 45px;
